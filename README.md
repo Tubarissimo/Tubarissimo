@@ -13,7 +13,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" alt="Godot"/></code>
 <code><img height="32" src="https://i.imgur.com/4FEZwIp.png" alt="Game Maker Studio 2"/></code>
 <code><img height="32" src="https://img.icons8.com/ios_filled/200/FFFFFF/github.png" alt="Github"/></code>
-<code><img height="32" src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
+<code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
 
 ---
 
